@@ -1,3 +1,4 @@
 # adlist-tschmittner
 medbo.de
 wsws.org
+synlab.de
