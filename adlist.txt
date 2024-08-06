@@ -1,7 +1,7 @@
 # adlist-tschmittner
-medbo.de
-wsws.org
-synlab.de
-jungefreiheit.de
-nius.de
 achgut.com
+jungefreiheit.de
+medbo.de
+nius.de
+synlab.de
+wsws.org
