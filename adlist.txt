@@ -1,5 +1,7 @@
 # adlist-tschmittner
 # https://raw.githubusercontent.com/TSchmittner/pihole/main/adlist.txt
+*.gov.ru
+*.rt.com
 achgut.com
 ad.style
 journalistenwatch.com
@@ -8,6 +10,11 @@ medbo.de
 nius.de
 pi-news.net
 politikstube.com
+rs.gov.ru
 rtdeutsch.com
+ruptly.tv
+snanews.de
+sputnikglobe.com
 synlab.de
+tass.com
 wsws.org
