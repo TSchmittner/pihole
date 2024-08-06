@@ -1,4 +1,5 @@
 # adlist-tschmittner
+# https://raw.githubusercontent.com/TSchmittner/pihole/main/adlist.txt
 achgut.com
 ad.style
 journalistenwatch.com
