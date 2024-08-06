@@ -1,7 +1,12 @@
 # adlist-tschmittner
 achgut.com
+ad.style
+journalistenwatch.com
 jungefreiheit.de
 medbo.de
 nius.de
+pi-news.net
+politikstube.com
+rtdeutsch.com
 synlab.de
 wsws.org
