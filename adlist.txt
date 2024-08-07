@@ -44,6 +44,7 @@ gazprom.com
 #
 achgut.com
 ad.style
+afd.de
 journalistenwatch.com
 jungefreiheit.de
 medbo.de
