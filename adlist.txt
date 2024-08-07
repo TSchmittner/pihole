@@ -1,7 +1,47 @@
 # adlist-tschmittner
 # https://raw.githubusercontent.com/TSchmittner/pihole/main/adlist.txt
+#
+# Russische Regierung
+#
 *.gov.ru
-*.rt.com
+gov.ru
+edu.gov.ru
+rkn.gov.ru
+rs.gov.ru
+#
+# Russische Medien
+#
+1tv.ru
+business-swiss.ch 
+dni.ru 
+gazeta.ru
+htnt-online.ru
+inosmi.ru
+lenta.ru
+og.ru
+polit.ru
+rbth.ru
+ren.tv
+rt.com
+rtdeutsch.com
+ruptly.tv
+smi.ru
+smotrim.ru
+snanews.de
+sputnikglobe.com
+strana.ru
+tass.com
+utro.ru
+vesti.ru
+vz.ru
+wsws.org
+#
+# Russische Firmen
+#
+gazprom.com
+#
+# unserioes
+#
 achgut.com
 ad.style
 journalistenwatch.com
@@ -10,11 +50,4 @@ medbo.de
 nius.de
 pi-news.net
 politikstube.com
-rs.gov.ru
-rtdeutsch.com
-ruptly.tv
-snanews.de
-sputnikglobe.com
 synlab.de
-tass.com
-wsws.org
