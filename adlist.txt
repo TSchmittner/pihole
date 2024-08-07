@@ -30,6 +30,8 @@ sfr.gov.ru
 sfr.gov.ru
 zakupki.gov.ru
 government.ru
+mid.ru
+germany.mid.ru
 #
 # Russische Medien
 #
