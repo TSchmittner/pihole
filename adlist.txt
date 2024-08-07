@@ -12,8 +12,8 @@ rs.gov.ru
 # Russische Medien
 #
 1tv.ru
-business-swiss.ch 
-dni.ru 
+business-swiss.ch
+dni.ru
 gazeta.ru
 htnt-online.ru
 inosmi.ru
