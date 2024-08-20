@@ -106,6 +106,10 @@ vk.company
 vtb.ru
 x5.ru
 #
+# russische Seiten
+#
+ru.pool.ntp.org
+#
 # unserioes
 #
 achgut.com
