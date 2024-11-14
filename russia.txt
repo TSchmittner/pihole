@@ -1,6 +1,5 @@
-# adlist-tschmittner
-# https://raw.githubusercontent.com/TSchmittner/pihole/main/adlist.txt
-# https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/blob/c6b162aa35f8f4d74093184f23a5e2e826c855a6/adlist.txt
+# russia.txt
+# https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/russia.txt
 #
 # Russische Regierung
 #
@@ -172,17 +171,3 @@
 #
 0.0.0.0 maxuthoff.de
 0.0.0.0 sahra-wagenknecht.de
-#
-# unserioes
-#
-0.0.0.0 achgut.com
-0.0.0.0 ad.style
-0.0.0.0 afd.de
-0.0.0.0 bsw-vg.de
-0.0.0.0 journalistenwatch.com
-0.0.0.0 jungefreiheit.de
-0.0.0.0 medbo.de
-0.0.0.0 nius.de
-0.0.0.0 pi-news.net
-0.0.0.0 politikstube.com
-0.0.0.0 timeweb.ru

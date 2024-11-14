@@ -1,5 +1,11 @@
-Adlist for pi-hole
+# Pihole Adlist
 
-Latest version at 
+[adlist.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/adlist.txt)
 
-https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist
+[russia.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/russia.txt)
+
+[fake-news.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/fake-news.txt)
+
+[tiktok.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/tiktok.txt)
+
+[twitter.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/twitter.txt)
