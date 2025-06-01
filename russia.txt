@@ -32,6 +32,14 @@
 0.0.0.0 government.ru
 0.0.0.0 mid.ru
 0.0.0.0 germany.mid.ru
+0.0.0.0 russische-botschaft.ru
+0.0.0.0 russisches-haus.de
+0.0.0.0 ruskonsulatbonn.de
+0.0.0.0 honorarkonsulrus.de
+0.0.0.0 austria.mid.ru
+0.0.0.0 russischeskulturinstitut.at
+0.0.0.0 rus-konsulat.at
+
 #
 # Russische Medien
 #
@@ -171,3 +179,6 @@
 #
 0.0.0.0 maxuthoff.de
 0.0.0.0 sahra-wagenknecht.de
+0.0.0.0 maxar.com
+0.0.0.0 starlink.com
+
