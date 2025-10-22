@@ -1,5 +1,5 @@
 # adblockerblocker
 # https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/adblockerblocker.txt
-# https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/blob/c6b162aa35f8f4d74093184f23a5e2e826c855a6/adblockerblocker.txt
+# https://raw.githubusercontent.com/TSchmittner/pihole/refs/heads/main/adblockerblocker.txt
 #
 0.0.0.0 derstandard.at
