@@ -1,5 +1,7 @@
 # Pihole Adlist
 
+[adblockerblocker.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/adblockerblocker.txt)
+
 [adlist.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/adlist.txt)
 
 [russia.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/russia.txt)
