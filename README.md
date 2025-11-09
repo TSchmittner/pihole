@@ -11,3 +11,5 @@
 [tiktok.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/tiktok.txt)
 
 [twitter.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/twitter.txt)
+
+[spam.txt](https://gitlab.thomas-schmittner.de/tschmittner/pihole-adlist/-/raw/main/spam.txt)
