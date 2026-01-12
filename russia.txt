@@ -4,42 +4,58 @@
 # Russische Regierung
 #
 *.gov.ru
-0.0.0.0 gov.ru
+0.0.0.0 agentura.ru
+0.0.0.0 austria.mid.ru
 0.0.0.0 budget.gov.ru
 0.0.0.0 bus.gov.ru
+0.0.0.0 cbr.ru
+0.0.0.0 cikrf.ru
 0.0.0.0 council.gov.ru
 0.0.0.0 digital.gov.ru
 0.0.0.0 duma.gov.ru
 0.0.0.0 economy.gov.ru
 0.0.0.0 edu.gov.ru
+0.0.0.0 favt.ru
+0.0.0.0 fcsm.ru
+0.0.0.0 fsb.ru
+0.0.0.0 fso.gov.ru
 0.0.0.0 fssp.gov.ru
+0.0.0.0 germany.mid.ru
+0.0.0.0 gov.ru
+0.0.0.0 government.ru
+0.0.0.0 honorarkonsulrus.de
+0.0.0.0 kremlin.ru
+0.0.0.0 ksrf.ru
 0.0.0.0 mchs.gov.ru
+0.0.0.0 mid.ru
 0.0.0.0 minsport.gov.ru
 0.0.0.0 mintrud.gov.ru
+0.0.0.0 myfreedom.ru
 0.0.0.0 nalog.gov.ru
-0.0.0.0 nalog.gov.ru
+0.0.0.0 obrnadzor.gov.ru
+0.0.0.0 oprf.ru
+0.0.0.0 pfrf.ru
 0.0.0.0 pravo.gov.ru
 0.0.0.0 premier.gov.ru
 0.0.0.0 proverki.gov.ru
 0.0.0.0 regulation.gov.ru
 0.0.0.0 rkn.gov.ru
+0.0.0.0 rosatom.ru
+0.0.0.0 roscosmos.ru
+0.0.0.0 rospotrebnadzor.ru
 0.0.0.0 rosreestr.gov.ru
 0.0.0.0 rosstat.gov.ru
+0.0.0.0 roszdravnadzor.gov.ru
 0.0.0.0 rs.gov.ru
-0.0.0.0 sfr.gov.ru
-0.0.0.0 sfr.gov.ru
-0.0.0.0 zakupki.gov.ru
-0.0.0.0 government.ru
-0.0.0.0 mid.ru
-0.0.0.0 germany.mid.ru
+0.0.0.0 rst.gov.ru
+0.0.0.0 rus-konsulat.at
+0.0.0.0 ruskonsulatbonn.de
 0.0.0.0 russische-botschaft.ru
 0.0.0.0 russisches-haus.de
-0.0.0.0 ruskonsulatbonn.de
-0.0.0.0 honorarkonsulrus.de
-0.0.0.0 austria.mid.ru
 0.0.0.0 russischeskulturinstitut.at
-0.0.0.0 rus-konsulat.at
-
+0.0.0.0 scrf.gov.ru
+0.0.0.0 sfr.gov.ru
+0.0.0.0 zakupki.gov.ru
 #
 # Russische Medien
 #
@@ -57,6 +73,7 @@
 0.0.0.0 rt.com
 0.0.0.0 rtdeutsch.com
 0.0.0.0 ruptly.tv
+0.0.0.0 russischewelt-shop.de
 0.0.0.0 smi.ru
 0.0.0.0 smotrim.ru
 0.0.0.0 snanews.de
@@ -67,13 +84,16 @@
 0.0.0.0 vesti.ru
 0.0.0.0 vz.ru
 0.0.0.0 wsws.org
+0.0.0.0 yandex.com
 #
 # Russische Firmen
 #
 0.0.0.0 aeroflot.ru
+0.0.0.0 aliexpress.ru
 0.0.0.0 alrosa.ru
 0.0.0.0 bashneft.ru
 0.0.0.0 bm.ru
+0.0.0.0 dzen.ru
 0.0.0.0 eng.baltika.ru
 0.0.0.0 enplus.ru
 0.0.0.0 fsk-ees.ru
@@ -89,6 +109,7 @@
 0.0.0.0 nlmksteel.com
 0.0.0.0 nornickel.com
 0.0.0.0 novatek.ru
+0.0.0.0 ozon.ru
 0.0.0.0 phosagro.com
 0.0.0.0 pik.ru
 0.0.0.0 polyusgold.ru
@@ -181,4 +202,3 @@
 0.0.0.0 sahra-wagenknecht.de
 0.0.0.0 maxar.com
 0.0.0.0 starlink.com
-
